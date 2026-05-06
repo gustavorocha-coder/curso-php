@@ -6,4 +6,7 @@ $novaEmpresa = str_replace('jaú','Americana',$empresa);
 echo "$novaEmpresa <br>";
 
 echo substr($novaEmpresa,0, 4). "<br>";
+echo strlen($novaEmpresa);
+//e a quantidade caracteres
+
 ?>
