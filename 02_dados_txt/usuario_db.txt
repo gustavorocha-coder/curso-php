@@ -1,0 +1,8 @@
+titulo 	 a \ ntitulo 	 a \ ntitulo 	 a \ ntitulo 	  
+titulo 	  
+ 	  
+ 	  
+gustavo 	 gusta@gmail.com 
+gustavo 	 gusta@gmail.com 
+gustavo 	 gusta@gmail.com $senha $telefone $endereco
+gustavo 	 gusta@gmail.com 	123456789+ 	1564155125 	rua-hdhfguge
