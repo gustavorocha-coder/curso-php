@@ -20,6 +20,18 @@
 
 <button type="submit">Cadastra</button>
 <button type="reset">Limpar</button>
+
     </form>
+
+    <hr>
+    <h2>listagem de albuns</h2>
+    <?php
+    $arquivo = fopen("album_db.txt","r");
+    while(!feof($arquivo)){
+        $linha = fgets($arquivo);
+        echo "$linha <br>";
+    }
+    fclose($arquivo);
+    ?>
 </body>
 </html>

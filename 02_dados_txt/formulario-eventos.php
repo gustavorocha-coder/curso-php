@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>cadastro de eveto</h1>
+    <form action="eventos-salvar.php" method='post'>
+
+        <label>nome</label>
+        <input type="text">
+
+    </form>
+    
+</body>
+</html>

@@ -13,3 +13,17 @@
  	  	  
  	  	  
  	  	  
+ 	  	  
+redhot  	 a 	 1 
+redhot  	 a 	 1 
+vermont 	 stars 	 2020 
+vermont 	 stars 	 2020 
+vermont 	 stars 	 2020 
+skrillex 	 first of the year 	 2010 
+skrillex 	 first of the year 	 2010 
+abc 	 erd 	 2151 
+abc 	 erd 	 2151 
+dsadsa 	 dsadsa 	 122 
+dsadsa 	 dsadsa 	 122 
+vermont 	 221 	 112 
+redhot  	 a 	 2020 
