@@ -15,9 +15,16 @@
         <label>tipo</label>
         <input type="text" name="tipo"><br>
 
-        
+        <label>data</label>
+        <input type="date" name ="data"><br>
+
+        <button type="submit">Cadastra</button>
+        <button type="reset">Limpar</button>
 
     </form>
-    
+
+    <hr>
+    <h2>listagem de eventos</h2>
+
 </body>
 </html>
