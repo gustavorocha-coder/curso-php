@@ -10,7 +10,12 @@
     <form action="eventos-salvar.php" method='post'>
 
         <label>nome</label>
-        <input type="text">
+        <input type="text" name="nome"><br>
+
+        <label>tipo</label>
+        <input type="text" name="tipo"><br>
+
+        
 
     </form>
     
